@@ -4,10 +4,13 @@ cifras tiene un número entero introducido por
 teclado, que estará comprendido entre 0 y 99999
 
 Por ejemplo: 
-9 -> tiene 1 cifras
+9 -> tiene 1 cifra
 10 -> tiene 2 cifras
 100 -> tiene 3 cifras
 1000 -> tiene 4 cifras
+.
+.
+
 '''
 
 numero = int(input("Ingrese un número: "))

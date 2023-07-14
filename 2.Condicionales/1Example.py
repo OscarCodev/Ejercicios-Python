@@ -12,7 +12,7 @@ if(num % 2 == 0):
 else:
     esPar = False
      
-# un codigo equivalente para hacer la misma condicion y evitar las lineas 9 hasta la 12 es este:
+# un codigo equivalente para hacer la misma condicion y evitar las lineas 9 hasta la 13 es este:
 # esPar = True if (num % 2 == 0) else False
 
 #Mostramos el resultado
