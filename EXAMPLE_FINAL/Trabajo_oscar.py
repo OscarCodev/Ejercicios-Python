@@ -16,7 +16,7 @@
     simplemente estan llamando funciones. Esas funciones estan definidas
     en la parte superior del bucle.
 
-    Todo inicio con un menu interactivo :) 😊😊
+    Todo comenzó con un menu interactivo :) 😊😊
 
 '''
 
